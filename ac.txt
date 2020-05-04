@@ -1,0 +1,2 @@
+hii im second file from 2nd directory
+
