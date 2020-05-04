@@ -1,0 +1,4 @@
+hii from stash command
+
+
+after stash check for commit 
